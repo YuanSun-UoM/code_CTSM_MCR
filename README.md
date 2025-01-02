@@ -6,7 +6,7 @@ This repository is supplementary to the manuscript "Sun, Y., Xia, J., Lindley S.
 
 The objective of this project area:
 
-- Examine the urban modeling capacity of [CTSM]() with local climate zones at the kilometer scale;
+- Examine the urban modeling capacity of [CTSM](https://github.com/ESCOMP/CTSM) with local climate zones at the kilometer scale;
 - Characterize urban heat in Greater Manchester using multiple observations (i.e., [HadISD](https://dx.doi.org/10.5285/b82b58d085d0433b821f4ae31cb608de), [Whitworth](http://www.cas.manchester.ac.uk/), [Manchester Air Quality Supersite (MAQS)](https://catalogue.ceda.ac.uk/uuid/91625bdf73944c5e896eb56d1fec35ee/), [QuantAQ sensors](https://www.quant-aq.com/products/modulair)), gridded datasets (i.e., [HadGrid-UK](https://catalogue.ceda.ac.uk/uuid/b963ead70580451aa7455782224479d5/), [UKCP18-Local](https://catalogue.ceda.ac.uk/uuid/d5822183143c4011a2bb304ee7c0baf7/), [ERA5-Land](https://dx.doi.org/10.24381/cds.e2161bac)), and simulations;
 - Provide robust climatic data for urban climate adaptation.
 
